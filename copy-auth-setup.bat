@@ -6,9 +6,8 @@ set "SOURCE_DIR=C:\Users\User\Documents\GitHub\Setup\next-auth-setup"
 set "TARGET_DIR=C:\Users\User\Documents\GitHub\test"
 
 REM List of directories and files to copy
-set ITEMS_TO_COPY=(
-    "app\Auth"
-)
+set ITEMS_TO_COPY="app\Auth"
+
 
 REM Split ITEMS_TO_COPY and copy each item
 for %%I in (%ITEMS_TO_COPY%) do (
