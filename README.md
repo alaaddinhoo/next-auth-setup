@@ -1,3 +1,11 @@
+NOTE: Run the script on cmd in file directory and make sure to change
+the TARGET_DIR to the root dir of the new project
+
+```bash
+shCopy code
+./copy-auth-setup.sh
+```
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
