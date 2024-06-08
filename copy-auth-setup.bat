@@ -2,8 +2,8 @@
 setlocal enabledelayedexpansion
 
 REM Define source and target directories
-set "SOURCE_DIR=..\next-auth-setup"
-set "TARGET_DIR=..\new-project"
+set "SOURCE_DIR=C:\Users\User\Documents\GitHub\Setup\next-auth-setup"
+set "TARGET_DIR=C:\Users\User\Documents\GitHub\test"
 
 REM List of directories and files to copy
 set ITEMS_TO_COPY=(
